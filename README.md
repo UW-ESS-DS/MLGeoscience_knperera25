@@ -9,6 +9,8 @@ Click [HERE](https://github.com/UW-ESS-DS/MLGeo-2023) for the URL link to the cl
 
 ## Favourite Earth Science Topics
 
+
+
 My favourite earth science topics are geozards. I love studying all natural hazards - volcanoes, rockfall, landslides, earthquakes, and tsunamis. All natural hazards facinate me and I learn engineering so I can help the world combat them!
 
 ## Code to Clone Repository
